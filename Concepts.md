@@ -3,7 +3,7 @@
 In this text, we are going to be using Vigor Decentralized Autonomous Community (VDAC) as an actual example of a possibly successful case of a DAC.
 
 ### On its intention
-VDAC is a group of people with the intention to actualize, within the group itself, the concepts of decentralization, autonomy, and community. Later on, we are going to talk more about why, in the first place, VDAC exists. But for now, let's bear in mind that it is very transformative to have this intention, the group's intention, written in the VDAC vision statement in order to have a very clear guide for all actions of VDAC members.
+VDAC is a group of people with the intention to actualize, within the group itself, the concepts of decentralization, autonomy, and community. Later on, we are going to talk more about it but for now let's bear in mind that it is very transformative to have this intention, the group's intention, written in the VDAC vision statement in order to have a very clear guide for all actions of VDAC members.
 
 There are two pieces of texts that serve as guidance to the group’s intention achievement, also. To be known, the [approved constitution](https://raw.githubusercontent.com/vigorstablecoin/constitution/master/constitution.md) and the [whitepaper](https://docs.vigor.ai/docs/en/whitepaper).  Nevertheless, it is paramount to remember, in case one has forgotten, that what governs the VDAC is the interpretation given to those two texts by **the ones in charge of the group.**
 
