@@ -53,6 +53,13 @@ The vote is the expression of your intention. It can be individual or social and
 
 In a democratic society, your vote has the same weight as anyone else's vote. Beyond any doubt, the democratic vote is the most perfect system; but not everything that is perfect meant to be used or applied. There is an issue of applicability: there are perfections that demand actualization (or perfection) of the parts where it is applied or used so that it as a whole works properly. In this case, humanity is not actualized enough to use such a system of voting, i.e. democratic voting -- there are people very well clarified about this. Therefore you've seen, unfortunately, from their beginnings, the plutocracy taking over democratic societies by the means of secret influences or blatant economic trades favoring only a few, or both. In any case, those kinds of behavior have always driven the social system into an oligarchy. And the oligarchy brings with itself its problems. Further, those problems will lead the social system into tyranny. This tyranny is well represented nowadays by communist regimes. In moral matters though, this issue of applicability does not apply. Because what's is right or wrong is, as it should be, a creation of society's conscience about such judged matter. And here I am not saying the moral matters are immune to the plutocratic forces; what I am saying is that this is completely off topic in this text.
 
+##### On the plutocratic vote: first energy added to the final vote weight
+The community has decided to use the energy of the plutocratic vote as one factor in the final vote weight. This is wise and adds not only *skin in the game* but also favors the platform in many ways: more liquidity, bigger rewards, more marketing visibility, and the most important *the mind* behind the plutocratic vote. Also, it eliminates the chance of big players (whales) try and manipulate the system; instead of this, the community will manipulate *the whales* so that their participation is welcome and healthy to the system by adding great value.
+
+##### On its implementation
+
+> This is being written as of now join the conversation at the [VDAC Gov. Telegram Chat](https://t.me/vigorgov)
+
 ## Concepts, words' choices and their definitions
 In this part, as we move forward with our conversation,  we will write down the definition of the principal words used in this text. The purpose of this is to organize the text and have a place of easy access for future references.
 
