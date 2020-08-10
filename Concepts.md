@@ -1,6 +1,6 @@
 
 # Decentralized Autonomous Community (DAC)
-In this text, we are going to be using **Vigor Decentralized Autonomous Community** (**VDAC**) as an actual example of a possibly successful case of a DAC. Also here, when the word **community** is used, it will always refer to VDAC unless otherwise notified.
+In this text, we are going to be using **Vigor Decentralized Autonomous Community** (**VDAC**) as an actual example of a possibly successful case of a DAC. Also here, when the word *"the" or "our" community* is used, it will always refer to VDAC unless otherwise notified.
 
 ### On its intention
 VDAC is a group of people with the intention to actualize, within the group itself, the concepts of decentralization, autonomy, and community. Later on, we are going to talk more about it but for now let's bear in mind that it is very transformative to have this intention, the group's intention, written in the VDAC vision statement in order to have a very clear guide for all actions of VDAC members.
@@ -22,15 +22,31 @@ Bring in mind that many times the vision and reasoning statements come together 
 * VDAC “why” statement _____________________________.
 
 ### VDAC vision statement
-We do have a sentence of Andrew in which he states the vision of VDAC, saying:
+ In the [EOS Hot Sauce episode 65](https://eosnation.io/eos-hot-sauce-65/) we do have a sentence of Andrew in which he states the vision of VDAC, saying:
 
->“that crypto borrow and lend platform run by its users."
+>“that crypto borrow and lend platform run by its users." 
 
 And, if I may, I would like to suggest this as an addition, _"and for its users where they can come and receive their meaningful share, always."_ Then, the whole statement could be written as follows: 
 
 VDAC’s vision statement: **To be that crypto borrow and lend platform run by its users and for its users where they can come and receive their meaningful share, always**.
 
-## Words' choices and their definitions
+## Let's start
+Assuming that the vision is the one we have right now and that even if the community chooses to change all the words yet keeping the same meaning, we can start moving forward with this conversation. The first thing we want to have is the actual picture of the VDAC in the present. We will not mind why it is how it is, and we are not going to judge it as well. It is just a picture so that we can have a clear view of the situation. And with a clear understanding, we can create a narrative that will serve as a solution for any possible identified problem.
+
+### On VDAC's picture: a simple narrative of what it is
+VDAC snapshot of July 2020, shows as it follows: a group of people who identify themselves as a decentralized autonomous community and who express the intention of being a decentralized autonomous community too. The group has a financial product where users can lend, borrow, and insure tokens. Among all group's actions, we want to separate them into 2: first, the ones registered on the blockchain, and secondly, the ones not.
+ - Registered on the blockchain: 
+	 - There are 4 ways to interact with the VDAC. Those interactions are divided into 2: it can be as users, or as members, or both. The group itself is divided into 3 classes of members representing 3 interactions: 
+		 - The first class is made of the 21 most voted members, called custodians, and they are the only ones whose votes count, and the only ones who can assign the multsig contracts, therefore the only ones who do govern.
+			 -**Governance**: This governance is made by the majority of custodians' votes where 11 votes, from the 21, can execute a multsig proposal. Therefore, only custodians can vote among themselves, and choose who gets in or who gets out. And there is no way how to interfere with that.
+		 - The second class is made of members that have received at least one vote, called candidates, and they do nothing in the governance, and their main role is to be there serving as candidates to the custodian rule. 
+		 - The third class is made of members that have received none vote, called just like members, and they do nothing in governance; they are just there. 
+		 - The last interaction belongs to the users -they are only users of the product and do nothing in the governance.
+	 - There is a payment method where all 3 classes of members receive VIG tokens, according to an equation, proportionally to how many votes they received (or received not,) and the amount set in their Request Reward Claim option.
+ - Not registered on the blockchain: 
+	 - The group has many human activities that can be easily summarized as follows: Conversation through group chats manly on the telegram, where people, mostly VDAC members, talk and come to agreements on very important matters such as governance, legal complacency, marketing, and also programming code. All of those conversations take place also through group calls manly on the Zoom platform.
+
+## Concepts, words' choices and their definitions
 In this part, as we move forward with our conversation,  we will write down the definition of the principal words used in this text. The purpose of this is to organize the text and have a place of easy access for future references.
 
 ## Questions & replies 
@@ -40,7 +56,7 @@ Here, along with the questions, we will have their respective answers potentiall
 
 As of in any other part of this text, any answer here can be modified at any time so that it might express a better solution to the proposed problem. Having this approach, we not only add value to the text but also save a lot of time. From now on, when we are presented with a similar inquire, we can simply refer to the already given answer. I hope the community appreciates this effort and that this might increase the velocity of our progress in writing this text.
 
- 1. [My main pondering on Vigor Vision is do we wish it to be a vision for Vigor Protocol (the financial app) or do we wish it to be for the VigorDAC (the decentralized community)](https://t.me/vigorgov/41332) And this other one, [So - do we wish it to be a vision for Vigor Protocol (the financial app) or do we wish it to be for the VigorDAC (the decentralized community)?](https://t.me/vigorgov/41335) **Reply:** It seems like to me, there is no such thing as Vigor protocol without VDAC. And this understanding comes from Andrew's videos, his vision as written above, and many documents officials, and non-officials. The idea is not to create anything new but rescue the intention already thrown into a creational process. (Nevertheless, no need to mention the VDAC vision can be changed but only when it will be changed -and this would be up to the community to decide -within here this is not part of the scope of this text.) Accordingly, the vision doesn't create the community; instead, the community creates it and ought to maintain it by the means of a healthy repetition, subliminal, or direct as in the vision statement case. And the clarification and maintenance of the already made vision have been the main topic of this text so far.
+ 1. [My main pondering on Vigor Vision is do we wish it to be a vision for Vigor Protocol (the financial app) or do we wish it to be for the VigorDAC (the decentralized community)](https://t.me/vigorgov/41332) And this other one, [So - do we wish it to be a vision for Vigor Protocol (the financial app) or do we wish it to be for the VigorDAC (the decentralized community)?](https://t.me/vigorgov/41335) **Reply:** It seems like to me, there is no such thing as Vigor protocol without VDAC. And this understanding comes from Andrew's videos, his vision as written above, and many documents officials, and non-officials. The idea is not to create anything new but rescue the intention already thrown into a creational process. (Nevertheless, no need to mention the VDAC vision can be changed but only when it will be changed -and this would be up to the community to decide. Here as it seems like, this is not part of the scope of this text.) Accordingly, the vision doesn't create the community; instead, the community creates it and ought to maintain it by the means of a healthy repetition, subliminal, or direct as in the vision statement case. And the clarification and maintenance of the already made vision have been the main topic of this text so far.
 
 ___________________________________________________________________
 So, please let's put some time and energy on this topic so that we can refer to it as we move forward with our conversation.
