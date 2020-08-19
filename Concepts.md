@@ -50,7 +50,9 @@ VDAC snapshot of July 2020, shows as it follows: a group of people who identify 
 First, let's have a general introduction talking about the possibilities we do have.
 
 ##### On the voting systems
-The vote is the expression of your personal intention. It can be individual or social and, in any one of those cases, it can be secretive or public. In a society, voting usually in its common sense is an expression of the energy you can direct towards the change of a situation or system as a whole. This energy is commonly called the *weight* of your vote.
+The vote is the expression of your personal intention. It can be individual or social and, in any one of those cases, it can be secretive or public. In a society, voting usually in its common sense is an expression of the *energy* you can direct towards the change of a situation or system as a whole. This energy is commonly called the *weight* of your vote.
+
+In this text, we are going to use the term 'weight' only to refer to the **VDAC final vote weight**, and the term '**energy**' to refer to the weight or *power* of any other vote system added to the VDAC final vote weight. 
 
 ###### On the democratic vote
 When your vote has the same weight as anyone else's vote, you have a democratic vote. Its regime is called democracy. Beyond any doubt, the democratic vote is the most perfect voting system; but not everything that is more perfect meant to be used or applied. There is an issue of applicability: there are perfections that demand actualization (or perfection) of the parts where they are applied or used so that they as a whole could then work properly. For instance, people, in general, are not actualized enough to use such a system of voting, i.e., democratic voting.
@@ -60,20 +62,58 @@ Therefore, as expected, whenever and wherever the democratic vote had been insta
 ###### On the plutocratic vote
 If you add the energy that here is representing your wealth into the weight of your vote where the more you have in wealthy the more your vote counts, you do create what is called *plutocratic vote*. Its regime is called an oligarchy. The plutocratic vote fixes the undesired behaviors mentioned above by introducing the energy that represents people's wealth into the system. You can not have a voice represented by your vote if you do not show how much wealth you do have. Now, there is a tendency for all participants interested in the final outcome of any system, to show up and present their wealth, and by doing so, the whole social system is clearer and public and any movement of this energy, the wealth, is easy to spot therefore easy to oversees. Note that, the overseeing action is mandatory in order to block the possible formation of cartels -the only thing different here is that now it is easier to keep this tendency to the formation of cartels in check.
 
+#####  On VDAC final vote weight
+As of August 2020, the community is deciding how the composition of the final VDAC vote weight will better express the community heart, i.e., its vision. As this text grows, also this composition will change and mature. For now, here is what we have as follows:
+
+ 1. [Plutocratic vote;](https://github.com/brspma/TEST/blob/master/TEST.md#on-the-plutocratic-vote-first-energy-added-to-the-vdac-final-vote-weight)
+ 2. [Reputation vote;](https://github.com/brspma/TEST/blob/master/TEST.md#on-the-reputation-vote-second-energy-added-to-the-vdac-final-vote-weight)
+ 3. [NameToBe vote;](https://github.com/brspma/TEST/blob/master/TEST.md#on-the-nametobe-vote-third-energy-added-to-the-vdac-final-vote-weight)
+
 ##### On the plutocratic vote: first energy added to the VDAC final vote weight
 The community has decided, as I understand, to use the energy of the plutocratic vote as one factor in the VDAC final vote weight. This seems wise to me and it adds not only *skin in the game* but also favors the platform in many ways: more liquidity, bigger rewards, more visibility in the industry, and the most important *the mind* behind the plutocratic vote. Also, because you incorporate the wealth in the equation, it eliminates the chance of big players (whales) try and manipulate the system; instead of this, the community will manipulate *the whales* so that their participation is welcome and healthy to the system by adding great value. This manipulation would take place in the form of a *mathematical equation* that would virtually attenuate the difference between the extremes of energies representing the difference between users' wealth. Further, this result would be added to a second math equation that would combine all other kinds of energies added to the VDAC final vote weight.
 
 Finally, let's emphasize what really happens with this implementation into the VDAC voting system. Now we have the community's door opened where the big players and the small ones will have not only a platform to use where all are welcome but a voice all can hear -a true journey into an **inclusive economy**.
-
 ##### On its implementation
+Before we go on describing how to implement the plutocratic vote, it is necessary to address some issues that may affect its efficiency and success. The first is the [Sybil attack.](https://github.com/brspma/TEST/blob/master/TEST.md#sybil-attack) and we will talk about it later. The second is the fact that the plutocratic vote by itself brings a *tendency* to conglomerate affecting the society where it is applied in 2 ways, in the form of *cartels* compromising the economy or in the form of *usurpation* compromising the governance. Note that the conglomerate caused by the plutocratic vote is not a problem in itself, but it is a vulnerability. It opens the possibility of the conglomerate to use its power in its own interest instead of the interest of the whole. And because it is a big part comparing to the small users, and some times its size can be problematic even if compared to the whole also, it can cause big damages to the society where it exercises its power. Here I will consider that those 2 scenarios above are not positively wanted by our community regardless of the how the conglomerate will exercise its power and of its size in relation to the community or to the users. There are two ways to avoid these 2 undesired situations: 
+1. by force, making use of the enforcement of an external law;
+2. by mitigating the influence of the energy of the plutocratic vote;
+
+I'll not describe the first solution, because it is, for now, out of consideration for our community. However, I want to add here also the notion that ***enforcement of the law** is the only way to prevent those 2 problems mentioned above*, beyond any doubt, where the plutocratic vote is used without mitigating its influence. (A case of this is EOS. There is no KYC or VOICE identity provider or any other means of linking identity with the individual that would refrain the intellect of an evil mind to gain the system in his favor. Of course, the implementation of an identity link into the blockchain will solve many other issues, but not those 2 mentioned problems here. For EOS, if they don't change the plutocratic vote system, they have to revive the **EOS Alliance** and reestablish the **Constitution** so that the enforcement of law takes place refraining these mentioned problems. .But this is a text for another chapter)
+
+###### On mitigating the influence of the energy of the plutocratic vote
+Since we are not going to make use of *enforcement of the external law*, for now, the restriction of the Sybil attack becomes obsolete. Because the fix to the problem caused by the Sybil attack doesn't address the vulnerability the plutocratic vote brings to the society where it is applied. The user or users with wealth enough could use many people with their true identities in order to game the plutocratic society, or use only one. Again, only the enforcement of external law could alleviate this vulnerability. Or as it will be described below, we could change the voting system by mixing more human intention power (energies) into the voting system. In other words, by the mitigation of the plutocratic vote energy.
+
+It is very important to understand that the Sybil attack has no relation of causality to the vulnerability of the plutocratic vote. That doesn't mean that we should not mitigate the Sybil attack for other reasons. And because of that, let's have a look and address the possibilities of how we could mitigate the Sybil attack. 
+
+1.  A clear solution is the link of identity with the user account(s). And this can be achieved in many ways as follows.
+    - Kown Your Customer (KYC);
+    - VOICE identity provider: this is a sure thing by now, the only problem is how long it will take until it is available to the EOS community;
+    - Worbli and UX blockchains might find it interesting to provide something like a proof of identity. Perhaps, this is an idea to follow up and check with them;
+    - Civic blockchain would be an alternative if any of EOSIO blockchains doesn't come to help with this identity issue; 
+
+2. Another solution would be mitigating the importance of the number of accounts;
+3. Finally, a third solution is to make it very difficult to maintain more than one account in the system;
+
+We can make all of those 3 alternatives above become obsolete if we narrow the possibilities of the next vote energy to a pre-established range of accounts. And that is what I am going to add to the next topic.
+
+##### On the reputation vote: second energy added to the VDAC final vote weight
+...
+
+##### On the NameToBe vote: third energy added to the VDAC final vote weight
+...
+
+
 
 > This is being written as of now join the conversation at the [VDAC Gov. Telegram Chat](https://t.me/vigorgov)
 
 ## Concepts, words' choices and their definitions
 In this part, as we move forward with our conversation,  we will write down the definition of the principal words used in this text. The purpose of this is to organize the text and have a place of easy access for future references.
 
-### Concept of the contingency of the use of blockchain as a means to achieve decentralization
+#### Concept of the contingency of the use of blockchain as a means to achieve decentralization
 I think it is paramount to understand that decentralization exists by itself in many systems alive or non-alive. Therefore, the use of blockchain is contingent on relation to the achievement of decentralization. **Practical conclusions**: with this understanding, we as a community can move forward to the achievement of decentralization without restraining ourselves by the morosity of technological developments. Tools like the DAC or Daclify are great tools and should be molded to our needs and not the other way around -even worst, would be to have seen the community's action being narrowed regarding decentralization because of the misapplication of those tools. In fact, we as a community could become completely decentralized without the use of those mentioned tools. That doesn't mean that we are not going to use those tools, but it is my hope that the approach to them is from now on completely different. Also, this concept does not imply the nonuse of blockchain, but its contingency regarding decentralization.
+
+#### Sybil attack
+Sybil attack (or pseudospoofing or sockpuppetry) is a tentative to manipulate a system by the means of creating more than one account -only systems that presuppose the use of one account per individual are vulnerable to such attack.
 
 ## Questions & replies 
 This is an attempt to organize all relevant questions the community might raise -all questions are extremely valuable. Within our community, many valuable contributions have been made already and many more may come. Unfortunately, most of the time they are shared on other means of communication such as the Telegram where all of them virtually are lost for lacking organization. Now, here we can record them in order. And by doing so, all of those coming valuable contributions positively will add their value to the accomplishment of this text.
