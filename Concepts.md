@@ -63,14 +63,29 @@ Therefore, as expected, whenever and wherever the democratic vote had been insta
 If you add the energy that here is representing your wealth into the weight of your vote where the more you have in wealthy the more your vote counts, you do create what is called *plutocratic vote*. Its regime is called an oligarchy. The plutocratic vote fixes the undesired behaviors mentioned above by introducing the energy that represents people's wealth into the system. You can not have a voice represented by your vote if you do not show how much wealth you do have. Now, there is a tendency for all participants interested in the final outcome of any system, to show up and present their wealth, and by doing so, the whole social system is clearer and public and any movement of this energy, the wealth, is easy to spot therefore easy to oversees. Note that, the overseeing action is mandatory in order to block the possible formation of cartels -the only thing different here is that now it is easier to keep this tendency to the formation of cartels in check.
 
 #####  On VDAC final vote weight
-As of August 2020, the community is deciding how the composition of the final VDAC vote weight will better express the community heart, i.e., its vision. As this text grows, also this composition will change and mature. For now, here is what we have as follows:
+As of August 2020, the community is deciding how the composition of the final VDAC vote weight will better express the community heart, i.e., its vision. As this text grows trying and clarifying the community choices, also this composition will change and mature. For now, here is what we have as follows:
 
- 1. [Plutocratic vote;](https://github.com/brspma/TEST/blob/master/TEST.md#on-the-plutocratic-vote-first-energy-added-to-the-vdac-final-vote-weight)
- 2. [Reputation vote;](https://github.com/brspma/TEST/blob/master/TEST.md#on-the-reputation-vote-second-energy-added-to-the-vdac-final-vote-weight)
- 3. [NameToBe vote;](https://github.com/brspma/TEST/blob/master/TEST.md#on-the-nametobe-vote-third-energy-added-to-the-vdac-final-vote-weight)
+ 1. [Plutocratic vote energy;](https://github.com/brspma/TEST/blob/master/TEST.md#on-the-plutocratic-vote-first-energy-added-to-the-vdac-final-vote-weight)
+ 2. [Reputation vote energy;](https://github.com/brspma/TEST/blob/master/TEST.md#on-the-reputation-vote-second-energy-added-to-the-vdac-final-vote-weight)
+ 3. [NameToBe vote energy;](https://github.com/brspma/TEST/blob/master/TEST.md#on-the-nametobe-vote-third-energy-added-to-the-vdac-final-vote-weight)
+
+A good summary of all I have read so far is that the idea is to architect the VDAC final vote weight using one *mathematical equation*. This math equation would simply sum all different *vote energies* added to the *VDAC final weight* giving to each energy a pre-established percentage as follows:
+
+ -  **VDAC final vote weight = x%[plutocratic vote energy] + x%[reputation energy] + x%[  NameToBe energy] + ....**
+
+Further, each energy added to the VDAC final vote weight will also be manipulated according to the best interest of the community. As it follows:
+
+ 1. Plutocratic vote energy = f(plutocratic vote);
+ 2. Reputation energy = f(user's activity on Vigor platform);
+ 3. NameToBe energy = f()];
+ 4. And more energies as it suits the needs of the community. I strongly suggest that we use only four energies. I think that four is the minimal and ideal number of energies to be used in this voting system for better circumspection of all possibilities; and better clarity. And the reasons behind the number four are that mainly there two ways to interact with the Vigor Protocol and no more; i.e., as a user of the Vigor platform or as a user of the VDAC, and in each interaction, you can measure the intensity of the user's participation (this measurement is sometimes objective others subjective,) giving us four variables, i. e.,four energies.
 
 ##### On the plutocratic vote: first energy added to the VDAC final vote weight
-The community has decided, as I understand, to use the energy of the plutocratic vote as one factor in the VDAC final vote weight. This seems wise to me and it adds not only *skin in the game* but also favors the platform in many ways: more liquidity, bigger rewards, more visibility in the industry, and the most important *the mind* behind the plutocratic vote. Also, because you incorporate the wealth in the equation, it eliminates the chance of big players (whales) try and manipulate the system; instead of this, the community will manipulate *the whales* so that their participation is welcome and healthy to the system by adding great value. This manipulation would take place in the form of a *mathematical equation* that would virtually attenuate the difference between the extremes of energies representing the difference between users' wealth. Further, this result would be added to a second math equation that would combine all other kinds of energies added to the VDAC final vote weight.
+The plutocratic vote's energy is the power given to the user to change the outcome of the community by his vote. The energy of a plutocratic vote is a straight function of the monetary value he uses in the platform.
+As of August 2020, the community has decided, as I understand, to use the energy of the plutocratic vote as one factor in the VDAC final vote weight. This seems wise to me and it adds not only *skin in the game* but also favors the platform in many ways: more liquidity, bigger rewards, more visibility in the industry, and the most important *the mind* behind the plutocratic vote. Also, because you incorporate the monetary value the user brings to the platform, into the equation, it eliminates the chance of big players (whales) try and manipulate the system; instead of this, the community will manipulate *the whales* so that their participation is welcome and healthy to the system by adding great value. 
+
+This manipulation would take place in two steps: first, the mathematical equation of *plutocratic vote energy* would attenuate the difference between the extremes of energies representing the difference between users' monetary value added to the VDAC platform.  
+Second,  this now attenuated result would be added to a second math equation, *VDAC final vote weight*, that would apply a percentage in this result exercising yet another attenuation. This percentage is the amount of influence the community positively wants to give to the plutocratic vote, in relation to the other energies as you can confirm [here in this link](https://github.com/brspma/TEST/blob/master/TEST.md#on-vdac-final-vote-weight).
 
 Finally, let's emphasize what really happens with this implementation into the VDAC voting system. Now we have the community's door opened where the big players and the small ones will have not only a platform to use where all are welcome but a voice all can hear -a true journey into an **inclusive economy**.
 ##### On its implementation
@@ -78,10 +93,10 @@ Before we go on describing how to implement the plutocratic vote, it is necessar
 1. by force, making use of the enforcement of an external law;
 2. by mitigating the influence of the energy of the plutocratic vote;
 
-I'll not describe the first solution, because it is, for now, out of consideration for our community. However, I want to add here also the notion that ***enforcement of the law** is the only way to prevent those 2 problems mentioned above*, beyond any doubt, where the plutocratic vote is used without mitigating its influence. (A case of this is EOS. There is no KYC or VOICE identity provider or any other means of linking identity with the individual that would refrain the intellect of an evil mind to gain the system in his favor. Of course, the implementation of an identity link into the blockchain will solve many other issues, but not those 2 mentioned problems here. For EOS, if they don't change the plutocratic vote system, they have to revive the **EOS Alliance** and reestablish the **Constitution** so that the enforcement of law takes place refraining these mentioned problems. .But this is a text for another chapter)
+I'll not describe the first solution, because it is, for now, out of consideration for our community. However, I want to add here also the notion that ***enforcement of the law** is the only way to prevent those two problems mentioned above*, beyond any doubt, where the plutocratic vote is used without mitigating its influence. (A case of this is EOS. There is no KYC, or VOICE identity provider, or any other means of linking identity with the account(s), that would refrain the intellect of an evil mind to gain the system in his favor. Of course, the implementation of an identity link into the blockchain will solve many other issues, but not those 2 mentioned problems here. For EOS, if they don't change the plutocratic vote system, they have to revive the **EOS Alliance** and reestablish the **Constitution** so that the enforcement of law takes place refraining these mentioned problems. However, this is a text for another chapter)
 
 ###### On mitigating the influence of the energy of the plutocratic vote
-Since we are not going to make use of *enforcement of the external law*, for now, the restriction of the Sybil attack becomes obsolete. Because the fix to the problem caused by the Sybil attack doesn't address the vulnerability the plutocratic vote brings to the society where it is applied. The user or users with wealth enough could use many people with their true identities in order to game the plutocratic society, or use only one. Again, only the enforcement of external law could alleviate this vulnerability. Or as it will be described below, we could change the voting system by mixing more human intention power (energies) into the voting system. In other words, by the mitigation of the plutocratic vote energy.
+Since we are not going to make use of *enforcement of the external law*, for now, the restriction of the Sybil attack becomes obsolete. Because the fix to the problem caused by the Sybil attack doesn't address the vulnerability the plutocratic vote brings to the society where it is applied. The user or users with monetary value enough could use many people with their true identities in order to game the plutocratic society, or use only one. Again, only the enforcement of external law could alleviate this vulnerability. Or as it will be described below, we could change the voting system by mixing more human intention power (energies) into the voting system. In other words, by the mitigation of the plutocratic vote energy.
 
 It is very important to understand that the Sybil attack has no relation of causality to the vulnerability of the plutocratic vote. That doesn't mean that we should not mitigate the Sybil attack for other reasons. And because of that, let's have a look and address the possibilities of how we could mitigate the Sybil attack. 
 
@@ -97,12 +112,14 @@ It is very important to understand that the Sybil attack has no relation of caus
 We can make all of those 3 alternatives above become obsolete if we narrow the possibilities of the next vote energy to a pre-established range of accounts. And that is what I am going to add to the next topic.
 
 ##### On the reputation vote: second energy added to the VDAC final vote weight
-...
+The community is working on the reputation vote, and we will describe here what the community decide, later. However, for now, I will write some thought I think may help in the composition of the reputation vote.
+
+The reputation vote's energy is the power given to the user to change the outcome of the community, in a straight function to how he uses the platform. As a user of the Vigor platform, if his activity is good for the community, his reputation's energy goes up; but, if his activity is bad for the community then his reputation's energy goes down. Of course, good or bad are judgments that will be defined by experts, Andrew and the team, according to many financial variables. Also, those judgments should be intensified by the amount of money the users perform their activities, i.e., if a user's actions generate a bailout of $5, he should lose a small amount of his reputation's energy; however, if he generates a bailout of $5M, he should lose a big amount of his reputation's energy.
+
+Moreover, I would like to suggest to not mix the reputation's energy with the plutocratic vote energy (this is not a necessity, but there is a reason here.) The reason is that if we do have them separate we will have more clarity on the voting system and more possibilities on how we can architect the voting system in order to create a more inclusive economy, yet attenuate the vulnerabilities mentioned so far.
 
 ##### On the NameToBe vote: third energy added to the VDAC final vote weight
 ...
-
-
 
 > This is being written as of now join the conversation at the [VDAC Gov. Telegram Chat](https://t.me/vigorgov)
 
